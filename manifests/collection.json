@@ -1,0 +1,20 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://164.67.17.127/images/toganoo/collection.json",
+  "@type": "sc:Collection",
+  "label": "UCLA Toganoo Collection",
+  "metadata": [{"volumes": "7"}, {"posted": "August 2018"}],
+  "description": "This is the UCLA Toganoo collection",
+  "attribution": "UCLA Richard C. Rudolph East Asian Library",
+
+  "manifests": [
+    { "@id": "http://164.67.17.127/images/toganoo/toganoo_1.json",
+      "@type": "sc:Manifest",
+      "label": "Volume 1"
+    },
+    { "@id": "http://164.67.17.127/images/toganoo/toganoo_2.json",
+      "@type": "sc:Manifest",
+      "label": "Volume 2"
+    }
+  ]
+}

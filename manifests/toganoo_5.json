@@ -1,0 +1,691 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json", 
+  "@id": "http://164.67.17.127/images/toganoo/toganoo_5.json", 
+  "@type": "sc:Manifest", 
+  "label": "Toganoo 5", 
+  "viewingDirection": "right-to-left",
+  "viewingHint": "paged",
+  "sequences": [
+    {
+      "@type": "sc:Sequence", 
+      "canvases": [
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_001.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 001.Tif", 
+          "height": 5936, 
+          "width": 5032, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_001.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 5032, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_001.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_001.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_002.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 002.Tif", 
+          "height": 5936, 
+          "width": 4056, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_002.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4056, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_002.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_002.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_003.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 003.Tif", 
+          "height": 5936, 
+          "width": 4040, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_003.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4040, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_003.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_003.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_004.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 004.Tif", 
+          "height": 5936, 
+          "width": 4056, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_004.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4056, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_004.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_004.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_005.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 005.Tif", 
+          "height": 5936, 
+          "width": 4040, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_005.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4040, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_005.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_005.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_006.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 006.Tif", 
+          "height": 5936, 
+          "width": 4056, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_006.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4056, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_006.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_006.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_007.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 007.Tif", 
+          "height": 5936, 
+          "width": 4040, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_007.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4040, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_007.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_007.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_008.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 008.Tif", 
+          "height": 5936, 
+          "width": 4056, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_008.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4056, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_008.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_008.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_009.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 009.Tif", 
+          "height": 5936, 
+          "width": 4040, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_009.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4040, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_009.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_009.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_010.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 010.Tif", 
+          "height": 5936, 
+          "width": 4056, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_010.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4056, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_010.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_010.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_011.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 011.Tif", 
+          "height": 5936, 
+          "width": 4040, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_011.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4040, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_011.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_011.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_012.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 012.Tif", 
+          "height": 5936, 
+          "width": 4056, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_012.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4056, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_012.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_012.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_013.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 013.Tif", 
+          "height": 5936, 
+          "width": 4040, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_013.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4040, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_013.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_013.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_014.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 014.Tif", 
+          "height": 5936, 
+          "width": 4056, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_014.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4056, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_014.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_014.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_015.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 015.Tif", 
+          "height": 5936, 
+          "width": 4040, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_015.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4040, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_015.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_015.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_016.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 016.Tif", 
+          "height": 5936, 
+          "width": 4056, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_016.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4056, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_016.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_016.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_017.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 017.Tif", 
+          "height": 5936, 
+          "width": 4040, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_017.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4040, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_017.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_017.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_018.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 018.Tif", 
+          "height": 5936, 
+          "width": 4056, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_018.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4056, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_018.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_018.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_019.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 019.Tif", 
+          "height": 5936, 
+          "width": 4040, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_019.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4040, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_019.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_019.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_020.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 020.Tif", 
+          "height": 5936, 
+          "width": 4056, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_020.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4056, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_020.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_020.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_021.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 021.Tif", 
+          "height": 5936, 
+          "width": 4040, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_021.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4040, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_021.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_021.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_022.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 022.Tif", 
+          "height": 5936, 
+          "width": 4056, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_022.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4056, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_022.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_022.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_023.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 023.Tif", 
+          "height": 5936, 
+          "width": 4040, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_023.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4040, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_023.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_023.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_024.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 024.Tif", 
+          "height": 5936, 
+          "width": 4056, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_024.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4056, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_024.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_024.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_025.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 025.Tif", 
+          "height": 5936, 
+          "width": 4040, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_025.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4040, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_025.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_025.tif.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_026.tif.json", 
+          "@type": "sc:Canvas", 
+          "label": "Ucla 2002310 026.Tif", 
+          "height": 5936, 
+          "width": 4960, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_026.tif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 5936, 
+                "width": 4960, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C5%7Cucla_2002310_026.tif", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_2002310_026.tif.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

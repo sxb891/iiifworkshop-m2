@@ -1,0 +1,365 @@
+{
+	"@context": "https://iiif.io/api/presentation/2/context.json",
+	"@id": "https://dawnchildress.com/mirador-collections/manifests/manifest2.json",
+	"@type": "sc:Manifest",
+	"label": "Kabuki Ezukushi",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "https://4cc688b1-f6ce-40ff-964e-684a7686aa9e",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "https://4a6419d2-a036-445f-afe9-773619a109b4",
+					"@type": "sc:Canvas",
+					"label": "Cover",
+					"height": 5312,
+					"width": 4520,
+					"images": [
+						{
+							"@context": "https://iiif.io/api/presentation/2/context.json",
+							"@id": "https://35bc53f8-29c4-49b9-b527-dd13a0000b54",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://127.0.0.1:8182/iiif/2/ucla_bib1987273_no001_rs_001.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "https://iiif.io/api/image/2/context.json",
+									"@id": "https://127.0.0.1:8182/iiif/2/ucla_bib1987273_no001_rs_001.tif",
+									"profile": [
+										"https://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 400000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 5312,
+								"width": 4520
+							},
+							"on": "https://4a6419d2-a036-445f-afe9-773619a109b4"
+						}
+					]
+				},
+				{
+					"@id": "https://ae96cdc0-d98f-43a5-b824-18b16154706a",
+					"@type": "sc:Canvas",
+					"label": "Pages 2-3",
+					"height": 5672,
+					"width": 7240,
+					"images": [
+						{
+							"@context": "https://iiif.io/api/presentation/2/context.json",
+							"@id": "https://78660b8e-0956-48b3-ad69-05017e1fd444",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://127.0.0.1:8182/iiif/2/ucla_bib1987273_no001_rs_002.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "https://iiif.io/api/image/2/context.json",
+									"@id": "https://127.0.0.1:8182/iiif/2/ucla_bib1987273_no001_rs_002.tif",
+									"profile": [
+										"https://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 400000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 5672,
+								"width": 7240
+							},
+							"on": "https://ae96cdc0-d98f-43a5-b824-18b16154706a"
+						}
+					]
+				},
+				{
+					"@id": "https://f6efaefc-22ca-4487-9268-64474da6dbf7",
+					"@type": "sc:Canvas",
+					"label": "Pages 3-4",
+					"height": 5672,
+					"width": 7240,
+					"images": [
+						{
+							"@context": "https://iiif.io/api/presentation/2/context.json",
+							"@id": "https://9644286b-9b2e-4ed5-a9e8-4a7ca58b6d7a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://127.0.0.1:8182/iiif/2/ucla_bib1987273_no001_rs_003.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "https://iiif.io/api/image/2/context.json",
+									"@id": "https://127.0.0.1:8182/iiif/2/ucla_bib1987273_no001_rs_003.tif",
+									"profile": [
+										"https://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 400000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 5672,
+								"width": 7240
+							},
+							"on": "https://f6efaefc-22ca-4487-9268-64474da6dbf7"
+						}
+					]
+				},
+				{
+					"@id": "https://533eaadf-afb5-4fe4-b645-f52dba3b5dd2",
+					"@type": "sc:Canvas",
+					"label": "Pages 5-6",
+					"height": 5672,
+					"width": 7240,
+					"images": [
+						{
+							"@context": "https://iiif.io/api/presentation/2/context.json",
+							"@id": "https://26dbac18-deb9-4d53-9c09-fc36a9d5d6ef",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://127.0.0.1:8182/iiif/2/ucla_bib1987273_no001_rs_004.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://127.0.0.1:8182/iiif/2/ucla_bib1987273_no001_rs_004.tif",
+									"profile": [
+										"https://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 400000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 5672,
+								"width": 7240
+							},
+							"on": "https://533eaadf-afb5-4fe4-b645-f52dba3b5dd2"
+						}
+					]
+				},
+				{
+					"@id": "https://ba9a395f-a035-4fd2-ac38-f22b729cf9a8",
+					"@type": "sc:Canvas",
+					"label": "Page 7",
+					"height": 5312,
+					"width": 4520,
+					"images": [
+						{
+							"@context": "https://iiif.io/api/presentation/2/context.json",
+							"@id": "https://ea90aee1-c0d0-44cb-8ecb-8f50f8760962",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://127.0.0.1:8182/iiif/2/ucla_bib1987273_no001_rs_005.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://127.0.0.1:8182/iiif/2/ucla_bib1987273_no001_rs_005.tif",
+									"profile": [
+										"https://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 400000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 5312,
+								"width": 4520
+							},
+							"on": "https://ba9a395f-a035-4fd2-ac38-f22b729cf9a8"
+						}
+					]
+				}
+			]
+		}
+	],
+	"structures": []
+}

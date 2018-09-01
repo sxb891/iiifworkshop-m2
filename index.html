@@ -7,18 +7,18 @@
     <title>Toganoo Collection of Esoteric Buddhism</title>
     <style type="text/css">
      #viewer {
-       width: 90%;
-       height: 90%;
+       width: 100%;
+       height: 100%;
        position: absolute;
      }
      #viewerContainer {
-       width: 90%;
+       width: 100%;
        margin: 0 auto;
      }
     </style>
   </head>
   <body>
-    <h2>Toganoo Collection of Esoteric Buddhism</h2>
+    <!-- <h2>Toganoo Collection of Esoteric Buddhism</h2> -->
     <div id="viewerContainer">
       <div id="viewer"></div>
     </div>
@@ -42,6 +42,11 @@
            { manifestUri: "https://dawnchildress.com/toganoo/manifests/toganoo_6.json", location: "UCLA Library"},
            { manifestUri: "https://dawnchildress.com/toganoo/manifests/toganoo_7.json", location: "UCLA Library"},
          ],
+         mainMenuSettings: {
+           userLogo: {
+             label: "UCLA Toganoo Collection of Esoteric Buddhism",
+           }
+         },
          windowSettings: {
            availableViews : ['ThumbnailsView', 'ImageView', 'ScrollView', 'BookView'],
            plugins : {
@@ -51,7 +56,7 @@
          windowObjects: [
            {
            loadedManifest: "https://dawnchildress.com/toganoo/manifests/toganoo_1.json",
-           viewType: "BookView",
+           viewType: "ScrollView",
            // slotAddress: "row1.column1"
          }],
          annotationEndpoint: {

@@ -34,9 +34,9 @@
          layout: "1x2",
          buildPath: "mirador/",
          data: [
-           { manifestUri: "https://dawnchildress.com/mirador-collections/manifests/manifest2.json", location: "Dawn's Laptop"},
-           { manifestUri: "https://gist.githubusercontent.com/mejackreed/2a84eab914273f00114c10ee239b5aa5/raw/manifest.json", location: "Jack's gist"},
-           { manifestUri: "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/12b02/manifest.json", location: "University of Tokyo"},
+           { manifestUri: "https://dawnchildress.com/toganoo/manifests/toganoo_1.json", location: "book 1"},
+           { manifestUri: "https://dawnchildress.com/toganoo/manifests/toganoo_2.json", location: "book 2"},
+           { manifestUri: "https://dawnchildress.com/toganoo/manifests/toganoo_3.json", location: "book 3"},
          ],
          windowSettings: {
            availableViews : ['ThumbnailsView', 'ImageView', 'ScrollView', 'BookView'],
@@ -44,12 +44,12 @@
               physicalRuler: true,
               imageManip: { "plugin": 'imageManip', "label": 'imageEdit', showImageEdit: true }
          } },
-         windowObjects: [
-           {
-           loadedManifest: "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/12b02/manifest.json",
-           viewType: "ImageView",
-           slotAddress: "row1.column1"
-         }],
+         // windowObjects: [
+         //   {
+         //   loadedManifest: "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/12b02/manifest.json",
+         //   viewType: "ImageView",
+         //   slotAddress: "row1.column1"
+         // }],
          annotationEndpoint: {
            name:"Simple Annotation Store Endpoint",
            module: "SimpleASEndpoint",

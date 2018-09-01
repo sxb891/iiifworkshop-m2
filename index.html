@@ -7,18 +7,18 @@
     <title>Toganoo Collection of Esoteric Buddhism</title>
     <style type="text/css">
      #viewer {
-       width: 80%;
-       height: 80%;
+       width: 90%;
+       height: 90%;
        position: absolute;
      }
      #viewerContainer {
-       width: 80%;
+       width: 90%;
        margin: 0 auto;
      }
     </style>
   </head>
   <body>
-    <h2>Dawn's IIIF Collections</h2>
+    <h2>Toganoo Collection of Esoteric Buddhism</h2>
     <div id="viewerContainer">
       <div id="viewer"></div>
     </div>
@@ -31,12 +31,16 @@
      $(function() {
        myMiradorInstance = Mirador({
          id: "viewer",
-         layout: "1x2",
+         // layout: "1x2",
          buildPath: "mirador/",
          data: [
-           { manifestUri: "https://dawnchildress.com/toganoo/manifests/toganoo_1.json", location: "book 1"},
-           { manifestUri: "https://dawnchildress.com/toganoo/manifests/toganoo_2.json", location: "book 2"},
-           { manifestUri: "https://dawnchildress.com/toganoo/manifests/toganoo_3.json", location: "book 3"},
+           { manifestUri: "https://dawnchildress.com/toganoo/manifests/toganoo_1.json", location: "UCLA Library"},
+           { manifestUri: "https://dawnchildress.com/toganoo/manifests/toganoo_2.json", location: "UCLA Library"},
+           { manifestUri: "https://dawnchildress.com/toganoo/manifests/toganoo_3.json", location: "UCLA Library"},
+           { manifestUri: "https://dawnchildress.com/toganoo/manifests/toganoo_4.json", location: "UCLA Library"},
+           { manifestUri: "https://dawnchildress.com/toganoo/manifests/toganoo_5.json", location: "UCLA Library"},
+           { manifestUri: "https://dawnchildress.com/toganoo/manifests/toganoo_6.json", location: "UCLA Library"},
+           { manifestUri: "https://dawnchildress.com/toganoo/manifests/toganoo_7.json", location: "UCLA Library"},
          ],
          windowSettings: {
            availableViews : ['ThumbnailsView', 'ImageView', 'ScrollView', 'BookView'],
@@ -44,12 +48,12 @@
               physicalRuler: true,
               imageManip: { "plugin": 'imageManip', "label": 'imageEdit', showImageEdit: true }
          } },
-         // windowObjects: [
-         //   {
-         //   loadedManifest: "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/12b02/manifest.json",
-         //   viewType: "ImageView",
-         //   slotAddress: "row1.column1"
-         // }],
+         windowObjects: [
+           {
+           loadedManifest: "https://dawnchildress.com/toganoo/manifests/toganoo_1.json",
+           viewType: "BookView",
+           // slotAddress: "row1.column1"
+         }],
          annotationEndpoint: {
            name:"Simple Annotation Store Endpoint",
            module: "SimpleASEndpoint",

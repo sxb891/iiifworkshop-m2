@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://164.67.17.127/images/toganoo/collection.json",
+  "@id": "https://dawnchildress.com/toganoo/manifests/collection.json",
   "@type": "sc:Collection",
   "label": "UCLA Toganoo Collection",
   "metadata": [{"volumes": "7"}, {"posted": "August 2018"}],
@@ -8,13 +8,33 @@
   "attribution": "UCLA Richard C. Rudolph East Asian Library",
 
   "manifests": [
-    { "@id": "http://164.67.17.127/images/toganoo/toganoo_1.json",
+    { "@id": "https://dawnchildress.com/toganoo/manifests/toganoo_1.json",
       "@type": "sc:Manifest",
       "label": "Volume 1"
     },
-    { "@id": "http://164.67.17.127/images/toganoo/toganoo_2.json",
+    { "@id": "https://dawnchildress.com/toganoo/manifests/toganoo_2.json",
       "@type": "sc:Manifest",
       "label": "Volume 2"
+    },
+    { "@id": "https://dawnchildress.com/toganoo/manifests/toganoo_3.json",
+      "@type": "sc:Manifest",
+      "label": "Volume 3"
+    },
+    { "@id": "https://dawnchildress.com/toganoo/manifests/toganoo_4.json",
+      "@type": "sc:Manifest",
+      "label": "Volume 4"
+    },
+    { "@id": "https://dawnchildress.com/toganoo/manifests/toganoo_5.json",
+      "@type": "sc:Manifest",
+      "label": "Volume 5"
+    },
+    { "@id": "https://dawnchildress.com/toganoo/manifests/toganoo_6.json",
+      "@type": "sc:Manifest",
+      "label": "Volume 6"
+    },
+    { "@id": "https://dawnchildress.com/toganoo/manifests/toganoo_7.json",
+      "@type": "sc:Manifest",
+      "label": "Volume 7"
     }
   ]
 }

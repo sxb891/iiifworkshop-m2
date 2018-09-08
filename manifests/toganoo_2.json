@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "http://164.67.17.127/images/toganoo/toganoo_2.json",
   "@type": "sc:Manifest",
-  "label": "Toganoo 2",
+  "label": "Himitsu mandarakyō kaien genjo Kyōsō taigi",
   "viewingDirection": "right-to-left",
   "viewingHint": "paged",
   "sequences": [

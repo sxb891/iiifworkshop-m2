@@ -2,14 +2,27 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://dawnchildress.com/toganoo/images/toganoo/toganoo_1.json",
   "@type": "sc:Manifest",
-  "label": "Ōri Daijō denzū yōroku",
+  "label": "應理大乘傳通要錄 ; Ōri Daijō denzū yōroku",
   "metadata": [
-    {"lable": "Uniform Title", "value": "法相／大乗傳通要録（外題)"},
+    {"label": "Uniform Title", "value": "法相／大乗傳通要録（外題)"},
+    {"label": "Transliterated Title", "value": "Ōri Daijō denzū yōroku"},
     {"label": "Colophon", "value": "文化三年丙寅 (1806), 薬師寺地蔵院", "@language": "ja"},
-    {"label": "Notes", "value": ["printing", "Number of maki 上下巻"]}
+    {"label": "Repository", "value": "UCLA Library"},
+    {"label": "Collection", "value": "Toganoo Collection of Esoteric Buddhism"},
+    {"label": "Identifier", "value": "BQ8118.4.R96 1806"},
+    {"label": "Physical description", "value": ["Printing", "codex", "paper", "料紙　楮紙", "49丁 (49 sheets)", "26 x 18cm", "Number of maki 上下巻", "Kanji text 要確認", "Fukurotozi 袋綴 bag binding"]},
+    {"label": "Seal description", "value": "yellow-green sticker 'K8'"},
+    {"label": "Origin", "value": "釈 良遍 字信願始住於 興福寺勝願院 中渉於 東大寺 知足之別處終隠於 生馬山大聖竹林寺 事跡具在別記矣実法相相中興之龍象也其所著之抄頗多焉諸宗義虎所競珍翫也蓋惟世已像季而唯識之学業遂年益襄故不耐其憂而所以製之也同門末葉誰不同志乎是故欲寿梓以令流布于世冀諸後学各省己心於此付刊人云爾  享保二丁酉歳 孟冬中澣南京 薬師寺 沙門 高範 識 南都西京  薬師寺 大経蔵板"},
+    {"label": "Provenance", "value": "西讃仁保邑 覚城院 仁純理玄 求之 on back cover"},
+    {"label": "Acquisition", "value": "Acquired from 栂尾祥瑞 in 1962. 祥瑞 acquired from 栂尾祥雲"}
   ],
+
   "viewingDirection": "right-to-left",
   "viewingHint": "paged",
+
+  "license": "http://rightsstatements.org/vocab/NoC-NC/1.0/, http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "attribution": "Images provided by UCLA Library and are Public Domain. Metadata is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.",
+
   "sequences": [
     {
       "@type": "sc:Sequence",

@@ -10,12 +10,12 @@
             <title>大乗伝通要録7044</title>
             <title type="original" sameAs="応理大乗伝通要録"></title>
          </titleStmt>
-         
+
          <publicationStmt>
             <publisher> University California Los Angeles East Asian Library</publisher>
             <pubPlace>Los Angeles</pubPlace>
             <availability xml:id="metadataRights" status="restricted">
-               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/"> This metadata is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.</licence>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.</licence>
             </availability>
          </publicationStmt>
 
@@ -30,9 +30,9 @@
                      <idno>Toganoo collector seal "K8 1"</idno>
                   </altIdentifier>
                </msIdentifier>
-               
+
                <head>Ōri Daijō denzū yōroku</head>
-               
+
                <msContents>
                   <msItem>
                      <title type="uniform">法相／大乗傳通要録（外題)</title>
@@ -45,7 +45,7 @@
                      </colophon>
                   </msItem>
                </msContents>
-               
+
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="paper">
@@ -85,7 +85,7 @@
                      釈<persName>良遍</persName>字信願始住於<placeName>興福寺勝願院</placeName>中渉於<placeName>東大寺</placeName>知足之別處終隠於<placeName>生馬山大聖竹林寺</placeName>事跡具在別記矣実法相相中興之龍象也其所著之抄頗多焉諸宗義虎所競珍翫也蓋惟世已像季而唯識之学業遂年益襄故不耐其憂而所以製之也同門末葉誰不同志乎是故欲寿梓以令流布于世冀諸後学各省己心於此付刊人云爾 <date when="1717">享保二丁酉歳</date>孟冬中澣南京<origPlace>薬師寺</origPlace>沙門<persName>高範</persName>識 南都西京 <origPlace>薬師寺</origPlace> 大経蔵板
                   </origin>
                   <provenance>
-                     <p>"<placeName>西讃仁保邑</placeName><orgName>覚城院</orgName><persName>仁純理玄</persName>求之" on back cover</p> 
+                     <p>"<placeName>西讃仁保邑</placeName><orgName>覚城院</orgName><persName>仁純理玄</persName>求之" on back cover</p>
                   </provenance>
                   <acquisition>
                      <p>Acquired from <name type="person" ref="https://viaf.org/viaf/35853152">
@@ -100,6 +100,7 @@
             <persName>Hiroyuki Ikuura</persName>
          </change>
       </revisionDesc>
+			<hasWitness>
    </teiHeader>
    <text>
       <body>

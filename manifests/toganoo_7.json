@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://164.67.17.127/images/toganoo/toganoo_7.json",
+  "@id": "https://dawnchildress.com/toganoo/images/toganoo/toganoo_7.json",
   "@type": "sc:Manifest",
   "label": "密藏要義 ; Mitsuzō yōgi",
   "viewingDirection": "right-to-left",

@@ -1,8 +1,8 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://164.67.17.127/images/toganoo/toganoo_4.json",
+  "@id": "https://dawnchildress.com/toganoo/images/toganoo/toganoo_4.json",
   "@type": "sc:Manifest",
-  "label": "法則集 ; Hōsokushū", 
+  "label": "法則集 ; Hōsokushū",
   "viewingDirection": "right-to-left",
   "viewingHint": "paged",
   "sequences": [

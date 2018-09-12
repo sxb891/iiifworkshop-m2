@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://dawnchildress.com/toganoo/images/toganoo/toganoo_2.json",
+  "@id": "https://dawnchildress.com/toganoo/manifests/toganoo_2.json",
   "@type": "sc:Manifest",
   "label": "秘密曼荼羅敎開演玄叙 / 敎相大義 ; Himitsu mandarakyō kaien genjo / Kyōsō taigi",
   "viewingDirection": "right-to-left",

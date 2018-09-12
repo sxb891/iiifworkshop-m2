@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://dawnchildress.com/toganoo/images/toganoo/toganoo_6.json",
+  "@id": "https://dawnchildress.com/toganoo/manifests/toganoo_6.json",
   "@type": "sc:Manifest",
   "label": "密林餘材 ; Mitsurin yozai",
   "viewingDirection": "right-to-left",

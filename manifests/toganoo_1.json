@@ -2761,6 +2761,7 @@
           "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_1564390_106.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 1564390 106.Tif",
+          "viewingHint": "non-paged",
           "height": 6272,
           "width": 5208,
           "images": [
@@ -2787,6 +2788,7 @@
           "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_1564390_a.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 1564390 A.Tif",
+          "viewingHint": "non-paged",
           "height": 799,
           "width": 6160,
           "images": [

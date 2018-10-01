@@ -55,7 +55,7 @@
                 "profile": "http://iiif.io/api/image/2/level0.json"
               }
             },
-            "on": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C1%7Cucla_1564390_001.tif/full/full/0/default.jpg"
+            "on": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17376kv"
           }
         ]
       }]

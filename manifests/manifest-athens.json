@@ -1,0 +1,63 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1dv21gp/manifest",
+  "@type": "sc:Manifest",
+  "label": "Arabic NF 66",
+  "metadata": [{
+    "label": "Title",
+    "value": "Arabic NF 66"
+  }, {
+    "label": "Overtext Language",
+    "value": "Arabic"
+  }, {
+    "label": "Overtext Content",
+    "value": "Life of St. Stephen from the Lavra of St. Sava"
+  }, {
+    "label": "Undertext Language(s)",
+    "value": "Christian Palestinian Aramaic, Greek majuscule"
+  }, {
+    "label": "Date",
+    "value": "Not yet identified"
+  }, {
+    "label": "Extent",
+    "value": "9 ff"
+  }, {
+    "label": "Form",
+    "value": "Folia"
+  }],
+  "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1mc9fnk/0,1022,6132,6132/150,150/0/default.jpg",
+  "license": "See Terms of Use on this website",
+  "logo": "https://sinai-images.library.ucla.edu/images/logos/iiif_logo.png",
+
+  "sequences": [
+    {
+    "@type": "sc:Sequence",
+    "canvases": [
+      {
+        "@id": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17376kv",
+        "@type": "sc:Canvas",
+        "label": "AraNF-66_003r_K-43-007_KTK_sharpie_avgUV-MB780IR",
+        "height": 8176,
+        "width": 6132,
+        "images": [
+          {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C1%7Cucla_1564390_001.tif/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "height": 6272,
+              "width": 5296,
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17376kv",
+                "profile": "http://iiif.io/api/image/2/level0.json"
+              }
+            },
+            "on": "http://164.67.17.127:8080/cantaloupe-4.0/iiif/2/toganoo%7C1%7Cucla_1564390_001.tif/full/full/0/default.jpg"
+          }
+        ]
+      }]
+    }]
+  }

@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1dv21gp/manifest",
+  "@id": "https://dawnchildress.com/toganoo/manifests/manifest-athens.json",
   "@type": "sc:Manifest",
   "label": "Arabic NF 66",
   "metadata": [{

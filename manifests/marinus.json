@@ -1,0 +1,964 @@
+bplist00Ñ_WebMainResourceÕ	
+^WebResourceURL_WebResourceFrameName_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingName_9http://marinus.library.ucla.edu/images/emel/manifest.jsonPO­ð<html><head><style>.pkt_added {text-decoration:none !important;}</style><style id="style-1-cropbar-clipper">/* Copyright 2014 Evernote Corporation. All rights reserved. */
+.en-markup-crop-options {
+    top: 18px !important;
+    left: 50% !important;
+    margin-left: -100px !important;
+    width: 200px !important;
+    border: 2px rgba(255,255,255,.38) solid !important;
+    border-radius: 4px !important;
+}
+
+.en-markup-crop-options div div:first-of-type {
+    margin-left: 0px !important;
+}
+</style></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://marinus.library.ucla.edu/images/emel/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Sinai manuscript images",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_%2B001r_K-43-001_KTK_pseudo_WBUVUVP-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 %2B001R K-43-001 Ktk Pseudo Wbuvuvp-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_%2B001r_K-43-001_KTK_pseudo_WBUVUVP-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_%2B001r_K-43-001_KTK_pseudo_WBUVUVP-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_%2B001r_K-43-001_KTK_pseudo_WBUVUVP-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_%2B001r_K-43-001_KTK_sharpie_avgUV-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 %2B001R K-43-001 Ktk Sharpie Avguv-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_%2B001r_K-43-001_KTK_sharpie_avgUV-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_%2B001r_K-43-001_KTK_sharpie_avgUV-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_%2B001r_K-43-001_KTK_sharpie_avgUV-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_%2B001r_K-43-001_PSH_color.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 %2B001R K-43-001 Psh Color.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_%2B001r_K-43-001_PSH_color.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_%2B001r_K-43-001_PSH_color.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_%2B001r_K-43-001_PSH_color.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_%2B001v_K-43-002_KTK_pseudo_WBUVUVP-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 %2B001V K-43-002 Ktk Pseudo Wbuvuvp-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_%2B001v_K-43-002_KTK_pseudo_WBUVUVP-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_%2B001v_K-43-002_KTK_pseudo_WBUVUVP-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_%2B001v_K-43-002_KTK_pseudo_WBUVUVP-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_%2B001v_K-43-002_KTK_sharpie_avgUV-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 %2B001V K-43-002 Ktk Sharpie Avguv-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_%2B001v_K-43-002_KTK_sharpie_avgUV-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_%2B001v_K-43-002_KTK_sharpie_avgUV-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_%2B001v_K-43-002_KTK_sharpie_avgUV-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_%2B001v_K-43-002_PSH_color.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 %2B001V K-43-002 Psh Color.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_%2B001v_K-43-002_PSH_color.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_%2B001v_K-43-002_PSH_color.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_%2B001v_K-43-002_PSH_color.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_001r_K-43-003_KTK_pseudo_WBUVUVP-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 001R K-43-003 Ktk Pseudo Wbuvuvp-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_001r_K-43-003_KTK_pseudo_WBUVUVP-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_001r_K-43-003_KTK_pseudo_WBUVUVP-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_001r_K-43-003_KTK_pseudo_WBUVUVP-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_001r_K-43-003_KTK_sharpie_avgUV-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 001R K-43-003 Ktk Sharpie Avguv-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_001r_K-43-003_KTK_sharpie_avgUV-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_001r_K-43-003_KTK_sharpie_avgUV-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_001r_K-43-003_KTK_sharpie_avgUV-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_001r_K-43-003_PSH_color.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 001R K-43-003 Psh Color.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_001r_K-43-003_PSH_color.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_001r_K-43-003_PSH_color.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_001r_K-43-003_PSH_color.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_001v_K-43-004_KTK_pseudo_WBUVUVP-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 001V K-43-004 Ktk Pseudo Wbuvuvp-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_001v_K-43-004_KTK_pseudo_WBUVUVP-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_001v_K-43-004_KTK_pseudo_WBUVUVP-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_001v_K-43-004_KTK_pseudo_WBUVUVP-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_001v_K-43-004_KTK_sharpie_avgUV-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 001V K-43-004 Ktk Sharpie Avguv-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_001v_K-43-004_KTK_sharpie_avgUV-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_001v_K-43-004_KTK_sharpie_avgUV-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_001v_K-43-004_KTK_sharpie_avgUV-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_001v_K-43-004_PSH_color.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 001V K-43-004 Psh Color.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_001v_K-43-004_PSH_color.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_001v_K-43-004_PSH_color.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_001v_K-43-004_PSH_color.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_002r_K-43-005_KTK_pseudo_WBUVUVP-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 002R K-43-005 Ktk Pseudo Wbuvuvp-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_002r_K-43-005_KTK_pseudo_WBUVUVP-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_002r_K-43-005_KTK_pseudo_WBUVUVP-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_002r_K-43-005_KTK_pseudo_WBUVUVP-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_002r_K-43-005_KTK_sharpie_avgUV-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 002R K-43-005 Ktk Sharpie Avguv-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_002r_K-43-005_KTK_sharpie_avgUV-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_002r_K-43-005_KTK_sharpie_avgUV-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_002r_K-43-005_KTK_sharpie_avgUV-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_002r_K-43-005_PSH_color.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 002R K-43-005 Psh Color.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_002r_K-43-005_PSH_color.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_002r_K-43-005_PSH_color.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_002r_K-43-005_PSH_color.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_002v_K-43-006_KTK_pseudo_WBUVUVP-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 002V K-43-006 Ktk Pseudo Wbuvuvp-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_002v_K-43-006_KTK_pseudo_WBUVUVP-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_002v_K-43-006_KTK_pseudo_WBUVUVP-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_002v_K-43-006_KTK_pseudo_WBUVUVP-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_002v_K-43-006_KTK_sharpie_avgUV-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 002V K-43-006 Ktk Sharpie Avguv-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_002v_K-43-006_KTK_sharpie_avgUV-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_002v_K-43-006_KTK_sharpie_avgUV-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_002v_K-43-006_KTK_sharpie_avgUV-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_002v_K-43-006_PSH_color.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 002V K-43-006 Psh Color.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_002v_K-43-006_PSH_color.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_002v_K-43-006_PSH_color.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_002v_K-43-006_PSH_color.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_003r_K-43-007_KTK_pseudo_WBUVUVP-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 003R K-43-007 Ktk Pseudo Wbuvuvp-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_003r_K-43-007_KTK_pseudo_WBUVUVP-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_003r_K-43-007_KTK_pseudo_WBUVUVP-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_003r_K-43-007_KTK_pseudo_WBUVUVP-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_003r_K-43-007_KTK_sharpie_avgUV-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 003R K-43-007 Ktk Sharpie Avguv-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_003r_K-43-007_KTK_sharpie_avgUV-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_003r_K-43-007_KTK_sharpie_avgUV-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_003r_K-43-007_KTK_sharpie_avgUV-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_003r_K-43-007_PSH_color.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 003R K-43-007 Psh Color.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_003r_K-43-007_PSH_color.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_003r_K-43-007_PSH_color.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_003r_K-43-007_PSH_color.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_003v_K-43-008_KTK_pseudo_WBUVUVP-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 003V K-43-008 Ktk Pseudo Wbuvuvp-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_003v_K-43-008_KTK_pseudo_WBUVUVP-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_003v_K-43-008_KTK_pseudo_WBUVUVP-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_003v_K-43-008_KTK_pseudo_WBUVUVP-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_003v_K-43-008_KTK_sharpie_avgUV-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 003V K-43-008 Ktk Sharpie Avguv-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_003v_K-43-008_KTK_sharpie_avgUV-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_003v_K-43-008_KTK_sharpie_avgUV-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_003v_K-43-008_KTK_sharpie_avgUV-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_003v_K-43-008_PSH_color.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 003V K-43-008 Psh Color.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_003v_K-43-008_PSH_color.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_003v_K-43-008_PSH_color.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_003v_K-43-008_PSH_color.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004-r_K-43-011_KTK_pseudo_WBUVUVP-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 004-R K-43-011 Ktk Pseudo Wbuvuvp-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004-r_K-43-011_KTK_pseudo_WBUVUVP-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004-r_K-43-011_KTK_pseudo_WBUVUVP-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004-r_K-43-011_KTK_pseudo_WBUVUVP-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004-r_K-43-011_KTK_sharpie_avgUV-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 004-R K-43-011 Ktk Sharpie Avguv-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004-r_K-43-011_KTK_sharpie_avgUV-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004-r_K-43-011_KTK_sharpie_avgUV-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004-r_K-43-011_KTK_sharpie_avgUV-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004-r_K-43-011_PSH_color.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 004-R K-43-011 Psh Color.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004-r_K-43-011_PSH_color.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004-r_K-43-011_PSH_color.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004-r_K-43-011_PSH_color.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004-v_K-43-012_KTK_pseudo_WBUVUVP-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 004-V K-43-012 Ktk Pseudo Wbuvuvp-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004-v_K-43-012_KTK_pseudo_WBUVUVP-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004-v_K-43-012_KTK_pseudo_WBUVUVP-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004-v_K-43-012_KTK_pseudo_WBUVUVP-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004-v_K-43-012_KTK_sharpie_avgUV-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 004-V K-43-012 Ktk Sharpie Avguv-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004-v_K-43-012_KTK_sharpie_avgUV-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004-v_K-43-012_KTK_sharpie_avgUV-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004-v_K-43-012_KTK_sharpie_avgUV-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004-v_K-43-012_PSH_color.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 004-V K-43-012 Psh Color.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004-v_K-43-012_PSH_color.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004-v_K-43-012_PSH_color.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004-v_K-43-012_PSH_color.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004r_K-43-009_KTK_pseudo_WBUVUVP-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 004R K-43-009 Ktk Pseudo Wbuvuvp-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004r_K-43-009_KTK_pseudo_WBUVUVP-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004r_K-43-009_KTK_pseudo_WBUVUVP-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004r_K-43-009_KTK_pseudo_WBUVUVP-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004r_K-43-009_KTK_sharpie_avgUV-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 004R K-43-009 Ktk Sharpie Avguv-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004r_K-43-009_KTK_sharpie_avgUV-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004r_K-43-009_KTK_sharpie_avgUV-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004r_K-43-009_KTK_sharpie_avgUV-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004r_K-43-009_PSH_color.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 004R K-43-009 Psh Color.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004r_K-43-009_PSH_color.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004r_K-43-009_PSH_color.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004r_K-43-009_PSH_color.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004v_K-43-010_KTK_pseudo_WBUVUVP-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 004V K-43-010 Ktk Pseudo Wbuvuvp-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004v_K-43-010_KTK_pseudo_WBUVUVP-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004v_K-43-010_KTK_pseudo_WBUVUVP-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004v_K-43-010_KTK_pseudo_WBUVUVP-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004v_K-43-010_KTK_sharpie_avgUV-MB780IR.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 004V K-43-010 Ktk Sharpie Avguv-Mb780Ir.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004v_K-43-010_KTK_sharpie_avgUV-MB780IR.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004v_K-43-010_KTK_sharpie_avgUV-MB780IR.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004v_K-43-010_KTK_sharpie_avgUV-MB780IR.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004v_K-43-010_PSH_color.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "Aranf-66 004V K-43-010 Psh Color.Jpg",
+          "height": 8176,
+          "width": 6132,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004v_K-43-010_PSH_color.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8176,
+                "width": 6132,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://marinus.library.ucla.edu/loris/emel/AraNF-66_004v_K-43-010_PSH_color.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://marinus.library.ucla.edu/images/emel/canvas/AraNF-66_004v_K-43-010_PSH_color.jpg.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+</pre></body></html>_application/jsonUUTF-8    ( 7 N ` v ” Ð Ñ®Å®Ø                           ®Þ

@@ -10,7 +10,7 @@
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_001.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_001.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 001.Tif",
           "height": 5912,
@@ -31,12 +31,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_001.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_001.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_002.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_002.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 002.Tif",
           "height": 5936,
@@ -57,12 +57,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_002.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_002.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_003.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_003.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 003.Tif",
           "height": 5936,
@@ -83,12 +83,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_003.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_003.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_004.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_004.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 004.Tif",
           "height": 5936,
@@ -109,12 +109,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_004.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_004.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_005.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_005.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 005.Tif",
           "height": 5936,
@@ -135,12 +135,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_005.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_005.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_006.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_006.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 006.Tif",
           "height": 5936,
@@ -161,12 +161,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_006.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_006.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_007.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_007.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 007.Tif",
           "height": 5936,
@@ -187,12 +187,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_007.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_007.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_008.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_008.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 008.Tif",
           "height": 5936,
@@ -213,12 +213,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_008.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_008.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_009.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_009.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 009.Tif",
           "height": 5936,
@@ -239,12 +239,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_009.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_009.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_010.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_010.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 010.Tif",
           "height": 5936,
@@ -265,12 +265,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_010.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_010.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_011.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_011.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 011.Tif",
           "height": 5936,
@@ -291,12 +291,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_011.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_011.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_012.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_012.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 012.Tif",
           "height": 5936,
@@ -317,12 +317,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_012.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_012.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_013.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_013.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 013.Tif",
           "height": 5936,
@@ -343,12 +343,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_013.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_013.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_014.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_014.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 014.Tif",
           "height": 5936,
@@ -369,12 +369,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_014.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_014.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_015.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_015.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 015.Tif",
           "height": 5936,
@@ -395,12 +395,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_015.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_015.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_016.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_016.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 016.Tif",
           "height": 5936,
@@ -421,12 +421,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_016.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_016.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_017.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_017.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 017.Tif",
           "height": 5936,
@@ -447,12 +447,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_017.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_017.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_018.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_018.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 018.Tif",
           "height": 5936,
@@ -473,12 +473,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_018.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_018.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_019.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_019.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 019.Tif",
           "height": 5936,
@@ -499,12 +499,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_019.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_019.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_020.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_020.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 020.Tif",
           "height": 5936,
@@ -525,12 +525,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_020.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_020.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_021.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_021.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 021.Tif",
           "height": 5936,
@@ -551,12 +551,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_021.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_021.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_022.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_022.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 022.Tif",
           "height": 5936,
@@ -577,12 +577,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_022.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_022.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_023.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_023.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 023.Tif",
           "height": 5936,
@@ -603,12 +603,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_023.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_023.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_024.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_024.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 024.Tif",
           "height": 5936,
@@ -629,12 +629,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_024.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_024.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_025.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_025.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 025.Tif",
           "height": 5936,
@@ -655,12 +655,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_025.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_025.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_026.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_026.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 026.Tif",
           "height": 5936,
@@ -681,12 +681,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_026.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_026.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_027.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_027.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 027.Tif",
           "height": 5936,
@@ -707,12 +707,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_027.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_027.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_028.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_028.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 028.Tif",
           "height": 5936,
@@ -733,12 +733,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_028.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_028.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_029.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_029.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 029.Tif",
           "height": 5936,
@@ -759,12 +759,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_029.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_029.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_030.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_030.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 030.Tif",
           "height": 5936,
@@ -785,12 +785,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_030.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_030.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_031.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_031.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 031.Tif",
           "height": 5936,
@@ -811,12 +811,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_031.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_031.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_032.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_032.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 032.Tif",
           "height": 5936,
@@ -837,12 +837,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_032.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_032.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_033.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_033.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 033.Tif",
           "height": 5936,
@@ -863,12 +863,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_033.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_033.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_034.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_034.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 034.Tif",
           "height": 5936,
@@ -889,12 +889,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_034.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_034.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_035.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_035.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 035.Tif",
           "height": 5936,
@@ -915,12 +915,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_035.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_035.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_036.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_036.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 036.Tif",
           "height": 5936,
@@ -941,12 +941,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_036.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_036.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_037.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_037.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 037.Tif",
           "height": 5936,
@@ -967,12 +967,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_037.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_037.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_038.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_038.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 038.Tif",
           "height": 5936,
@@ -993,12 +993,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_038.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_038.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_039.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_039.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 039.Tif",
           "height": 5936,
@@ -1019,12 +1019,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_039.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_039.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_040.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_040.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 040.Tif",
           "height": 5936,
@@ -1045,12 +1045,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_040.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_040.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_041.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_041.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 041.Tif",
           "height": 5936,
@@ -1071,12 +1071,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_041.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_041.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_042.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_042.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 042.Tif",
           "height": 5936,
@@ -1097,12 +1097,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_042.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_042.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_043.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_043.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 043.Tif",
           "height": 5936,
@@ -1123,12 +1123,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_043.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_043.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_044.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_044.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 044.Tif",
           "height": 5936,
@@ -1149,12 +1149,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_044.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_044.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_045.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_045.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 045.Tif",
           "height": 5936,
@@ -1175,12 +1175,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_045.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_045.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_046.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_046.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 046.Tif",
           "height": 5936,
@@ -1201,12 +1201,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_046.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_046.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_047.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_047.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 047.Tif",
           "height": 5936,
@@ -1227,12 +1227,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_047.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_047.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_048.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_048.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 048.Tif",
           "height": 5936,
@@ -1253,12 +1253,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_048.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_048.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_049.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_049.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 049.Tif",
           "height": 5936,
@@ -1279,12 +1279,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_049.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_049.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_050.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_050.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 050.Tif",
           "height": 5936,
@@ -1305,12 +1305,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_050.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_050.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_051.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_051.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 051.Tif",
           "height": 5936,
@@ -1331,12 +1331,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_051.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_051.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_052.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_052.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 052.Tif",
           "height": 5936,
@@ -1357,12 +1357,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_052.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_052.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_053.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_053.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 053.Tif",
           "height": 5936,
@@ -1383,12 +1383,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_053.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_053.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_054.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_054.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 054.Tif",
           "height": 5936,
@@ -1409,12 +1409,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_054.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_054.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_055.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_055.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 055.Tif",
           "height": 5936,
@@ -1435,12 +1435,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_055.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_055.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_056.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_056.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 056.Tif",
           "height": 5936,
@@ -1461,12 +1461,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_056.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_056.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_057.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_057.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 057.Tif",
           "height": 5936,
@@ -1487,12 +1487,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_057.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_057.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_058.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_058.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 058.Tif",
           "height": 5936,
@@ -1513,12 +1513,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_058.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_058.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_059.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_059.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 059.Tif",
           "height": 5936,
@@ -1539,12 +1539,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_059.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_059.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_060.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_060.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 060.Tif",
           "height": 5936,
@@ -1565,12 +1565,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_060.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_060.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_061.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_061.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 061.Tif",
           "height": 5936,
@@ -1591,12 +1591,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_061.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_061.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_062.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_062.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 062.Tif",
           "height": 5936,
@@ -1617,12 +1617,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_062.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_062.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_063.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_063.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 063.Tif",
           "height": 5936,
@@ -1643,12 +1643,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_063.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_063.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_064.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_064.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 064.Tif",
           "height": 5936,
@@ -1669,12 +1669,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_064.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_064.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_065.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_065.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 065.Tif",
           "height": 5936,
@@ -1695,12 +1695,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_065.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_065.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_066.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_066.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 066.Tif",
           "height": 5936,
@@ -1721,12 +1721,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_066.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_066.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_067.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_067.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 067.Tif",
           "height": 5936,
@@ -1747,12 +1747,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_067.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_067.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_068.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_068.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 068.Tif",
           "height": 5936,
@@ -1773,12 +1773,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_068.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_068.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_069.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_069.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 069.Tif",
           "height": 5936,
@@ -1799,12 +1799,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_069.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_069.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_070.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_070.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 070.Tif",
           "height": 5936,
@@ -1825,12 +1825,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_070.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_070.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_071.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_071.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 071.Tif",
           "height": 5936,
@@ -1851,12 +1851,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_071.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_071.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_072.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_072.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 072.Tif",
           "height": 5936,
@@ -1877,12 +1877,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_072.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_072.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_073.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_073.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 073.Tif",
           "height": 5936,
@@ -1903,12 +1903,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_073.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_073.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_074.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_074.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 074.Tif",
           "height": 5936,
@@ -1929,12 +1929,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_074.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_074.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_075.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_075.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 075.Tif",
           "height": 5936,
@@ -1955,12 +1955,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_075.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_075.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_076.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_076.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 076.Tif",
           "height": 5936,
@@ -1981,12 +1981,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_076.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_076.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_077.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_077.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 077.Tif",
           "height": 5936,
@@ -2007,12 +2007,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_077.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_077.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_078.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_078.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 078.Tif",
           "height": 5936,
@@ -2033,12 +2033,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_078.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_078.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_079.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_079.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 079.Tif",
           "height": 5936,
@@ -2059,12 +2059,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_079.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_079.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_080.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_080.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 080.Tif",
           "height": 5936,
@@ -2085,12 +2085,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_080.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_080.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_081.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_081.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 081.Tif",
           "height": 5936,
@@ -2111,12 +2111,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_081.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_081.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_082.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_082.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 082.Tif",
           "height": 5936,
@@ -2137,12 +2137,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_082.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_082.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_083.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_083.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 083.Tif",
           "height": 5936,
@@ -2163,12 +2163,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_083.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_083.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_084.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_084.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 084.Tif",
           "height": 5936,
@@ -2189,12 +2189,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_084.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_084.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_085.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_085.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 085.Tif",
           "height": 5936,
@@ -2215,12 +2215,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_085.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_085.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_086.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_086.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 086.Tif",
           "height": 5936,
@@ -2241,12 +2241,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_086.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_086.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_087.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_087.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 087.Tif",
           "height": 5936,
@@ -2267,12 +2267,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_087.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_087.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_088.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_088.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 088.Tif",
           "height": 5936,
@@ -2293,12 +2293,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_088.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_088.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_089.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_089.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 089.Tif",
           "height": 5936,
@@ -2319,12 +2319,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_089.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_089.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_090.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_090.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 090.Tif",
           "height": 5936,
@@ -2345,12 +2345,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_090.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_090.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_091.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_091.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 091.Tif",
           "height": 5936,
@@ -2371,12 +2371,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_091.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_091.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_092.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_092.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 092.Tif",
           "height": 5936,
@@ -2397,12 +2397,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_092.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_092.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_093.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_093.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 093.Tif",
           "height": 5936,
@@ -2423,12 +2423,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_093.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_093.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_094.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_094.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 094.Tif",
           "height": 5936,
@@ -2449,12 +2449,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_094.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_094.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_095.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_095.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 095.Tif",
           "height": 5936,
@@ -2475,12 +2475,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_095.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_095.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_096.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_096.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 096.Tif",
           "height": 5936,
@@ -2501,12 +2501,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_096.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_096.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_097.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_097.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 097.Tif",
           "height": 5936,
@@ -2527,12 +2527,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_097.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_097.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_098.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_098.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 098.Tif",
           "height": 5936,
@@ -2553,12 +2553,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_098.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_098.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_099.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_099.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 099.Tif",
           "height": 5936,
@@ -2579,12 +2579,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_099.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_099.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_100.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_100.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 100.Tif",
           "height": 5936,
@@ -2605,12 +2605,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_100.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_100.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_101.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_101.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 101.Tif",
           "height": 5936,
@@ -2631,12 +2631,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_101.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_101.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_102.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_102.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 102.Tif",
           "height": 5936,
@@ -2657,12 +2657,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_102.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_102.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_103.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_103.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 103.Tif",
           "height": 5936,
@@ -2683,12 +2683,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_103.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_103.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_104.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_104.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 104.Tif",
           "height": 5936,
@@ -2709,12 +2709,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_104.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_104.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_105.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_105.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 105.Tif",
           "height": 5936,
@@ -2735,12 +2735,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_105.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_105.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_106.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_106.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 106.Tif",
           "height": 5936,
@@ -2761,12 +2761,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_106.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_106.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_107.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_107.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 107.Tif",
           "height": 5936,
@@ -2787,12 +2787,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_107.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_107.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_108.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_108.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 108.Tif",
           "height": 5936,
@@ -2813,12 +2813,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_108.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_108.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_109.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_109.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 109.Tif",
           "height": 5936,
@@ -2839,12 +2839,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_109.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_109.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_110.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_110.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 110.Tif",
           "height": 5936,
@@ -2865,12 +2865,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_110.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_110.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_111.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_111.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 111.Tif",
           "height": 5936,
@@ -2891,12 +2891,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_111.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_111.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_112.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_112.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 112.Tif",
           "height": 5936,
@@ -2917,12 +2917,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_112.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_112.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_113.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_113.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 113.Tif",
           "height": 5936,
@@ -2943,12 +2943,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_113.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_113.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_114.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_114.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 114.Tif",
           "height": 5936,
@@ -2969,12 +2969,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_114.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_114.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_115.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_115.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 115.Tif",
           "height": 5936,
@@ -2995,12 +2995,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_115.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_115.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_116.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_116.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 116.Tif",
           "height": 5936,
@@ -3021,12 +3021,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_116.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_116.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_117.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_117.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 117.Tif",
           "height": 5936,
@@ -3047,12 +3047,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_117.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_117.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_118.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_118.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 118.Tif",
           "height": 5936,
@@ -3073,12 +3073,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_118.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_118.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_119.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_119.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 119.Tif",
           "height": 5936,
@@ -3099,12 +3099,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_119.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_119.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_120.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_120.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 120.Tif",
           "height": 5936,
@@ -3125,12 +3125,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_120.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_120.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_121.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_121.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 121.Tif",
           "height": 5936,
@@ -3151,12 +3151,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_121.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_121.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_122.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_122.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 122.Tif",
           "height": 5936,
@@ -3177,12 +3177,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_122.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_122.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_123.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_123.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 123.Tif",
           "height": 5936,
@@ -3203,12 +3203,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_123.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_123.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_124.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_124.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 124.Tif",
           "height": 5936,
@@ -3229,12 +3229,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_124.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_124.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_125.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_125.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 125.Tif",
           "height": 5936,
@@ -3255,12 +3255,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_125.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_125.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_126.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_126.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 126.Tif",
           "height": 5936,
@@ -3281,12 +3281,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_126.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_126.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_127.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_127.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 127.Tif",
           "height": 5936,
@@ -3307,12 +3307,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_127.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_127.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_128.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_128.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 128.Tif",
           "height": 5936,
@@ -3333,12 +3333,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_128.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_128.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_129.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_129.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 129.Tif",
           "height": 5936,
@@ -3359,12 +3359,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_129.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_129.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_130.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_130.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 130.Tif",
           "height": 5936,
@@ -3385,12 +3385,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_130.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_130.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_131.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_131.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 131.Tif",
           "height": 5936,
@@ -3411,12 +3411,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_131.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_131.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_132.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_132.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 132.Tif",
           "height": 5936,
@@ -3437,12 +3437,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_132.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_132.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_133.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_133.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 133.Tif",
           "height": 5936,
@@ -3463,12 +3463,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_133.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_133.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_134.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_134.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 134.Tif",
           "height": 5936,
@@ -3489,12 +3489,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_134.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_134.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_135.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_135.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 135.Tif",
           "height": 5936,
@@ -3515,12 +3515,12 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_135.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_135.tif.json"
             }
           ]
         },
         {
-          "@id": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_136.tif.json",
+          "@id": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_136.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 136.Tif",
           "height": 5936,
@@ -3541,7 +3541,7 @@
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "http://164.67.17.127/images/toganoo/canvas/ucla_3680644_136.tif.json"
+              "on": "https://marinus.library.ucla.edu/loris/toganoo/canvas/ucla_3680644_136.tif.json"
             }
           ]
         }

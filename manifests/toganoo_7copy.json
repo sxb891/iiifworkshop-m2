@@ -92,7 +92,6 @@
     },
     {
       "@type": "sc:Sequence",
-      "viewingHint": "paged",
       "canvases": [
         {
           "@id": "https://marinus.library.ucla.edu/iiif/toganoo/canvas/ucla_3680644_005.tif.json",

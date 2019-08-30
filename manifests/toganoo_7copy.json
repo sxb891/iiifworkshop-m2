@@ -87,12 +87,7 @@
               "on": "https://marinus.library.ucla.edu/iiif/toganoo/canvas/ucla_3680644_003.tif.json"
             }
           ]
-        }
-      ]
-    },
-    {
-      "@type": "sc:Sequence",
-      "canvases": [
+        },
         {
           "@id": "https://marinus.library.ucla.edu/iiif/toganoo/canvas/ucla_3680644_005.tif.json",
           "@type": "sc:Canvas",
@@ -173,5 +168,48 @@
         }
       ]
     }
-  ]
+  ],
+  "structures": [
+   {
+     "@id": "http://example.org/iiif/book1/range/r0",
+     "@type": "sc:Range",
+     "label": "Table of Contents",
+     "viewingHint": "top",
+     "members": [
+       {
+         "@id": "http://example.org/iiif/book1/range/r1",
+         "@type": "sc:Range",
+         "label": "non-paged stuff"
+       },
+       {
+         "@id": "http://example.org/iiif/book1/canvas/r2",
+         "@type": "sc:Range",
+         "label": "paged stuff"
+       }
+     ]
+   },
+   {
+     "@id": "http://example.org/iiif/book1/range/r1",
+     "@type": "sc:Range",
+     "label": "non-paged stuff",
+     "viewingHint": "non-paged",
+     "ranges": ["http://example.org/iiif/book1/range/r1-1"],
+     "canvases": [
+       "https://marinus.library.ucla.edu/iiif/toganoo/canvas/ucla_3680644_001.tif.json",
+       "https://marinus.library.ucla.edu/iiif/toganoo/canvas/ucla_3680644_002.tif.json",
+       "https://marinus.library.ucla.edu/iiif/toganoo/canvas/ucla_3680644_003.tif.json"
+     ]
+   },
+   {
+     "@id": "http://example.org/iiif/book1/range/r1-1",
+     "@type": "sc:Range",
+     "label": "paged stuff",
+     "viewingHint": "paged",
+     "canvases": [
+       "https://marinus.library.ucla.edu/iiif/toganoo/canvas/ucla_3680644_005.tif.json",
+       "https://marinus.library.ucla.edu/iiif/toganoo/canvas/ucla_3680644_006.tif.json",
+       "https://marinus.library.ucla.edu/iiif/toganoo/canvas/ucla_3680644_136.tif.json"
+     ]
+   }
+ ]
 }

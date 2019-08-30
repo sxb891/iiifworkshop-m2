@@ -40,6 +40,7 @@
           "@id": "https://marinus.library.ucla.edu/iiif/toganoo/canvas/ucla_3680644_002.tif.json",
           "@type": "sc:Canvas",
           "label": "Ucla 3680644 002.Tif",
+          "viewingHint": "non-paged",
           "height": 5936,
           "width": 4216,
           "images": [

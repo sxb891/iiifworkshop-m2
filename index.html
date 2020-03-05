@@ -34,13 +34,7 @@
          // layout: "1x2",
          buildPath: "mirador/",
          data: [
-           { manifestUri: "./manifests/toganoo_1.json", location: "UCLA Library"},
-           { manifestUri: "./manifests/toganoo_2.json", location: "UCLA Library"},
-           { manifestUri: "./manifests/toganoo_3.json", location: "UCLA Library"},
-           { manifestUri: "./manifests/toganoo_4.json", location: "UCLA Library"},
-           { manifestUri: "./manifests/toganoo_5.json", location: "UCLA Library"},
-           { manifestUri: "./manifests/toganoo_6.json", location: "UCLA Library"},
-           { manifestUri: "./manifests/toganoo_7.json", location: "UCLA Library"},
+           { collectionUri: "https://iiif.library.ucla.edu/collections/ark%3A%2F21198%2Fz1bk2gmg", location: "UCLA Library"},
          ],
          mainMenuSettings: {
            userLogo: {
@@ -54,12 +48,12 @@
               physicalRuler: true,
               imageManip: { "plugin": 'imageManip', "label": 'imageEdit', showImageEdit: true }
          } },
-         // windowObjects: [
-         //   {
-         //   loadedManifest: "https://dawnchildress.com/toganoo/manifests/toganoo_1.json",
-         //   viewType: "ScrollView",
-         //   // slotAddress: "row1.column1"
-         // }],
+         windowObjects: [
+            {
+            loadedManifest: "https://dawnchildress.com/toganoo/manifests/toganoo_1.json",
+            viewType: "ScrollView",
+            // slotAddress: "row1.column1"
+          }],
          annotationEndpoint: {
            name:"Simple Annotation Store Endpoint",
            module: "SimpleASEndpoint",

@@ -1,0 +1,106 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz001nwthk/manifest",
+  "label": "Ms. 46 Ṣālot bā᾽eneta bāreyā; Ṣalota Mastem",
+  "description": "Text in black ink.  Some words and divine and owner's names in red ink.",
+  "viewingDirection": "top-to-bottom",
+  "viewingHint": "continuous",
+  "sequences": [{
+    "@type": "sc:Sequence",
+    "@id": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz001nwthk/manifest/sequence/normal",
+    "canvases": [{
+      "@id": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz001nwthk/manifest/canvas/ark%3A%2F21198%2Fzz001nwtnn",
+      "@type": "sc:Canvas",
+      "label": "Image 1",
+      "description": "Image of a segment of the scroll.",
+      "width": 640,
+      "height": 480,
+      "images": [{
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@type": "dctypes:Image",
+          "@id": "https://iiif.library.ucla.edu/iiif/2/21198%2Fzz001nwtnn/full/600,/0/default.jpg",
+          "width": 640,
+          "height": 480,
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://iiif.library.ucla.edu/iiif/2/21198%2Fzz001nwtnn",
+            "profile": "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "on": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz001nwthk/manifest/canvas/ark%3A%2F21198%2Fzz001nwtnn"
+      }]
+    }, {
+      "@id": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz001nwthk/manifest/canvas/ark%3A%2F21198%2Fzz001nwtm4",
+      "@type": "sc:Canvas",
+      "label": "Image 2",
+      "description": "Image of a segment of the scroll.",
+      "width": 640,
+      "height": 480,
+      "images": [{
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@type": "dctypes:Image",
+          "@id": "https://iiif.library.ucla.edu/iiif/2/21198%2Fzz001nwtm4/full/600,/0/default.jpg",
+          "width": 640,
+          "height": 480,
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://iiif.library.ucla.edu/iiif/2/21198%2Fzz001nwtm4",
+            "profile": "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "on": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz001nwthk/manifest/canvas/ark%3A%2F21198%2Fzz001nwtm4"
+      }]
+    }, {
+      "@id": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz001nwthk/manifest/canvas/ark%3A%2F21198%2Fzz001nwtkm",
+      "@type": "sc:Canvas",
+      "label": "Image 3",
+      "description": "Image of a segment of the scroll.",
+      "width": 640,
+      "height": 480,
+      "images": [{
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@type": "dctypes:Image",
+          "@id": "https://iiif.library.ucla.edu/iiif/2/21198%2Fzz001nwtkm/full/600,/0/default.jpg",
+          "width": 640,
+          "height": 480,
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://iiif.library.ucla.edu/iiif/2/21198%2Fzz001nwtkm",
+            "profile": "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "on": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz001nwthk/manifest/canvas/ark%3A%2F21198%2Fzz001nwtkm"
+      }]
+    }, {
+      "@id": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz001nwthk/manifest/canvas/ark%3A%2F21198%2Fzz001nwtj3",
+      "@type": "sc:Canvas",
+      "label": "Image 4",
+      "description": "Image of a segment of the scroll.",
+      "width": 640,
+      "height": 480,
+      "images": [{
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@type": "dctypes:Image",
+          "@id": "https://iiif.library.ucla.edu/iiif/2/21198%2Fzz001nwtj3/full/600,/0/default.jpg",
+          "width": 640,
+          "height": 480,
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://iiif.library.ucla.edu/iiif/2/21198%2Fzz001nwtj3",
+            "profile": "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "on": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz001nwthk/manifest/canvas/ark%3A%2F21198%2Fzz001nwtj3"
+      }]
+    }]
+  }]
+}

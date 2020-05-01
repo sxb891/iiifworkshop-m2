@@ -43,8 +43,8 @@
                 "service":
                   {
                     "id": "https://iiif.io/api/image/3.0/example/reference/4f92cceb12dd53b52433425ce44308c7-ucla_bib1987273_no001_rs_001",
-                    "context": "http://iiif.io/api/image/2/context.json",
-                    "profile": "http://iiif.io/api/image/2/level1.json"
+                    "context": "http://iiif.io/api/image/3/context.json",
+                    "profile": "http://iiif.io/api/image/3/level1.json"
                   }
               },
               "target": "https://preview.iiif.io/recipe/0010-book-2-viewing-direction/canvas/p1"

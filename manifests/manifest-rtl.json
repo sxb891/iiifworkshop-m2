@@ -45,15 +45,7 @@
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 4823,
-                "width": 3497,
-                "service": [
-                  {
-                    "id": "https://iiif.io/api/image/3.0/example/reference/4f92cceb12dd53b52433425ce44308c7-ucla_bib1987273_no001_rs_001",
-                    "type": "ImageService3",
-                    "profile": "level1",
-                    "protocol": "http://iiif.io/api/image"
-                  }
-                ]
+                "width": 3497
               },
               "target": "https://preview.iiif.io/recipe/0010-book-2-viewing-direction/canvas/p1"
             }

@@ -15,9 +15,9 @@
   "viewingDirection": "right-to-left",
 
   "service": {
-    "@context" : "https://iiif.io/api/image/2/context.json",
+    "@context" : "https://iiif.io/api/image/3/context.json",
     "@id" : "https://www.example.org/image-service/abcd1234",
-    "profile": "https://iiif.io/api/image/2/level2.json"
+    "profile": "https://iiif.io/api/image/3/level2.json"
   },
 
   "items": [
@@ -47,36 +47,13 @@
                 "height": 4823,
                 "width": 3497,
                 "service": [
-  {
-    "id": "https://iiif.io/api/image/3.0/example/reference/4f92cceb12dd53b52433425ce44308c7-ucla_bib1987273_no001_rs_001",
-    "type": "ImageService3",
-    "profile": "level1",
-    "extraFormats": [
-      "jpg",
-      "png"
-    ],
-    "extraQualities": [
-      "default",
-      "color",
-      "gray"
-    ],
-    "height": 4823,
-    "width": 3497,
-    "protocol": "http://iiif.io/api/image",
-    "tiles": [
-      {
-        "height": 512,
-        "scaleFactors": [
-          1,
-          2,
-          4,
-          8
-        ],
-        "width": 512
-      }
-    ]
-  }
-]
+                  {
+                    "id": "https://iiif.io/api/image/3.0/example/reference/4f92cceb12dd53b52433425ce44308c7-ucla_bib1987273_no001_rs_001",
+                    "type": "ImageService3",
+                    "profile": "level1",
+                    "protocol": "http://iiif.io/api/image"
+                  }
+                ]
               },
               "target": "https://preview.iiif.io/recipe/0010-book-2-viewing-direction/canvas/p1"
             }

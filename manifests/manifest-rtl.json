@@ -13,6 +13,13 @@
     ]
   },
   "viewingDirection": "right-to-left",
+
+  "service": {
+    "@context" : "http://iiif.io/api/image/2/context.json",
+    "@id" : "http://www.example.org/image-service/abcd1234",
+    "profile": "http://iiif.io/api/image/2/level2.json"
+  },
+
   "items": [
     {
       "id": "https://preview.iiif.io/recipe/0010-book-2-viewing-direction/canvas/p1",

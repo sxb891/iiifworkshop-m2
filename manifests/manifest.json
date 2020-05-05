@@ -28,8 +28,6 @@
                 "body": {
                   "id": "https://fixtures.iiif.io/video/indiana/30-minute-clock/medium/30-minute-clock.mp4",
                   "type": "Video",
-                  "height": 360,
-                  "width": 640,
                   "duration": 1801.055,
                   "format": "video/mp4"
                 },

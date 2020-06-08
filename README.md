@@ -2,7 +2,7 @@
 
 1. Fork this repo into your GitHub account.
 
-2. In the Settings tab, scroll down to the GitHub Pages section to enable GitHub Pages. Choose the `master branch` option.
+2. In the Settings tab, scroll down to the GitHub Pages section to enable Pages. Choose the `master branch` option.
 
 3. You should now be able to view your Mirador 2 instance at the site URL generated in the GitHub Pages section of your Settings.
 

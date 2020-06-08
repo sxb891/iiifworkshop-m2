@@ -1,1 +1,39 @@
-{"@context":"http://iiif.io/api/presentation/2/context.json","label":"Thomas Allen dancing to Karadeniz Kemençesi music with employees at the Lidjessy Mines, Şebinkarahisar vicinity, Turkey, 1891","@id":"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz002hfpt6/manifest","@type":"sc:Manifest","metadata":[{"label":"Repository","value":"University of California, Los Angeles. $b Library Special Collections"}],"sequences":[{"@id":"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz002hfpt6/manifest/sequence/normal","@type":"sc:Sequence","canvases":[{"@type":"sc:Canvas","label":"Thomas Allen dancing to Karadeniz Kemençesi music with employees at the Lidjessy Mines, Şebinkarahisar vicinity, Turkey, 1891","@id":"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz002hfpt6/manifest/canvas/zz002hfpt6","width":6670,"height":6579,"images":[{"@type":"oa:Annotation","@id":"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz002hfpt6/annotation/zz002hfpt6","motivation":"sc:painting","on":"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz002hfpt6/manifest/canvas/zz002hfpt6","resource":{"@id":"https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz002hfpt6/full/600,/0/default.jpg","@type":"dctypes:Image","format":"image/jpeg","service":{"@context":"http://iiif.io/api/image/2/context.json","@id":"https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz002hfpt6","profile":"http://iiif.io/api/image/2/level0.json"}}}]}]}]}
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "label": "Thomas Allen dancing to Karadeniz Kemençesi music with employees at the Lidjessy Mines, Şebinkarahisar vicinity, Turkey, 1891",
+  "@id": "https://dawnchildress.com/manifests/manifest_image.json",
+  "@type": "sc:Manifest",
+
+  "metadata": [{
+    "label": "Repository",
+    "value": "University of California, Los Angeles. Library Special Collections"
+  }],
+  
+  "sequences": [{
+    "@id": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz002hfpt6/manifest/sequence/normal",
+    "@type": "sc:Sequence",
+    "canvases": [{
+      "@type": "sc:Canvas",
+      "label": "Thomas Allen dancing to Karadeniz Kemençesi music with employees at the Lidjessy Mines, Şebinkarahisar vicinity, Turkey, 1891",
+      "@id": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz002hfpt6/manifest/canvas/zz002hfpt6",
+      "width": 6670,
+      "height": 6579,
+      "images": [{
+        "@type": "oa:Annotation",
+        "@id": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz002hfpt6/annotation/zz002hfpt6",
+        "motivation": "sc:painting",
+        "on": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz002hfpt6/manifest/canvas/zz002hfpt6",
+        "resource": {
+          "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz002hfpt6/full/600,/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz002hfpt6",
+            "profile": "http://iiif.io/api/image/2/level0.json"
+          }
+        }
+      }]
+    }]
+  }]
+}

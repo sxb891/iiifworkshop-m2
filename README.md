@@ -13,7 +13,7 @@
     * Open the `index.html` file.
       * Take a look at the different sections. What info are we presenting? How does this correlate to what you see on in the live Mirador view?
       * We have two manifests available for viewing right now. How might you add the manifest that you uploaded?
-    * Let's play with some configurations: https://github.com/ProjectMirador/mirador-2-wiki/wiki/Configuration-Guides
+    * Experiment with some configurations: https://github.com/ProjectMirador/mirador-2-wiki/wiki/Configuration-Guides
       * How would you configure a specific manifest to load on open?
       * ...set the default view for a manifest to Book View?
       * ...configure Mirador to open with two object windows?

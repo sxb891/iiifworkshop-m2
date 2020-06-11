@@ -1,0 +1,158 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://cf55e3b6-cc1a-4f98-a392-4cc3d1356086",
+	"@type": "sc:Manifest",
+	"label": "Ege Leaf 01 Recto",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://38bc6040-7a18-40d1-933e-30edde3f84ac",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://e5637601-b6e2-45ac-9210-647c530eadd1",
+					"@type": "sc:Canvas",
+					"label": "Cincinnati Public Library",
+					"height": 2420,
+					"width": 1717,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://7fc1a914-42d2-4701-85f4-22552a38a669",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/cinciR$cinciR.tiff/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/cinciR$cinciR.tiff",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								},
+								"height": 2420,
+								"width": 1717
+							},
+							"on": "http://e5637601-b6e2-45ac-9210-647c530eadd1"
+						}
+					],
+					"otherContent": [
+                        {
+                               "@id": "http://localhost:8887/annotations1.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "My fantastic annotations"
+                         }
+                    ]      
+				},
+				{
+					"@id": "http://0faf0fa6-7150-4c2d-bbe0-42a266ef972d",
+					"@type": "sc:Canvas",
+					"label": "Case Western Reserve University ",
+					"height": 5334,
+					"width": 3688,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d2f333c1-a2ce-42df-bbda-de163317056a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/cwruR$cwruR.tiff/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/cwruR$cwruR.tiff",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 5334,
+								"width": 3688
+							},
+							"on": "http://0faf0fa6-7150-4c2d-bbe0-42a266ef972d"
+						}
+					],
+					  "related": ""
+				},
+				{
+					"@id": "http://81264d6e-9a33-4055-8467-d9792a74e8e7",
+					"@type": "sc:Canvas",
+					"label": "University of Michigan",
+					"height": 2920,
+					"width": 1920,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://00872dbb-a8e7-452d-822b-5e6467494b4f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/michR$michR.tiff/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/michR$michR.tiff",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 2920,
+								"width": 1920
+							},
+							"on": "http://81264d6e-9a33-4055-8467-d9792a74e8e7"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://fa217cbe-58a8-4ded-a8b3-19a889c205f4",
+					"@type": "sc:Canvas",
+					"label": "Ohio University",
+					"height": 8829,
+					"width": 6173,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://6c669e3c-898c-4b7b-89d1-2596c86549e0",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/ohioR$ohioR.tiff/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/ohioR$ohioR.tiff",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 8829,
+								"width": 6173
+							},
+							"on": "http://fa217cbe-58a8-4ded-a8b3-19a889c205f4"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

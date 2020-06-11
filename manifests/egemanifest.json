@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://068a8f0e-d40c-46c6-b0cd-b1f027278bbf",
+	"@id": "https://sxb891.github.io/iiifworkshop-m2/",
 	"@type": "sc:Manifest",
 	"label": "Ege Leaf 01",
 	"metadata": [],
